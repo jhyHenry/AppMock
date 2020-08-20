@@ -1,6 +1,6 @@
 # AppMock
 
-A new Flutter project.
+A Flutter project mock for app.
 
 ## Getting Started
 
